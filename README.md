@@ -7,8 +7,6 @@ This project is a hotel management tool developed in Java. It was created as par
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
 
 ## Features
 
